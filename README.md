@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Eu sou Gabriel Regis Silva 👋
 
-<!--
-**Regiss304/Regiss304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de desenvolvimento de software, focado em evoluir minha base em lógica de programação e desenvolvimento web.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando no meu crescimento como desenvolvedor e na construção do meu portfólio
+- 🌱 Atualmente estou aprendendo lógica de programação, VisualG, Python, HTML, CSS, JavaScript, Git e GitHub
+- 👯 Estou procurando colaborar em projetos de tecnologia, acessibilidade e desenvolvimento web
+- 🤔 Estou procurando ajuda para melhorar minhas práticas de programação e ganhar experiência com projetos reais
+- 💬 Pergunte-me sobre lógica de programação, VisualG, estudos em programação e desenvolvimento web
+- 📫 Como falar comigo: pelo GitHub
+- ⚡ Curiosidade: gosto de aprender entendendo a lógica por trás do código, não apenas copiando soluções
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Regiss304&theme=midnight-purple&hide_border=false&locale=pt_BR&short_numbers=false)](https://git.io/streak-stats)
